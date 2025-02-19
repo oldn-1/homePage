@@ -1,0 +1,28 @@
+.container{
+    height: 737px;
+    background-image: url(./assets/mba2.jpeg);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+.container2{
+    
+    background-image: url(./assets/mbaKuning.jpeg);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+}
+
+  .container h1{
+    font-size:18.37px ;
+    
+  } 
+  .cover a{
+    background-color: rgba(255, 255, 255, 0.3);
+  
+  }
